@@ -1,2 +1,1 @@
-# My-Resume
-Project for Udemy (My Resume)
+# This is My Resume
